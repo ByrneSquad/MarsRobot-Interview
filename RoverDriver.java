@@ -108,12 +108,12 @@ public class RoverDriver {
 //        mercedes.actionOrders(new Order[]{Order.FORWARD, Order.FORWARD, Order.RIGHT, Order.FORWARD, Order.FORWARD, Order.RIGHT,
 //            Order.FORWARD, Order.RIGHT, Order.RIGHT, Order.FORWARD});
 //        System.out.println(mercedes.getLocation());
-        System.out.println("");
-        System.out.println("Output: ");
-        System.out.println("Board Dimensions: " + mars.getGridHeight() + " " + mars.getGridWidth());
-        System.out.println("Direction: " + startDirection);
+//        System.out.println("");
+//        System.out.println("Output: ");
+//        System.out.println("Board Dimensions: " + mars.getGridHeight() + " " + mars.getGridWidth());
+//        System.out.println("Direction: " + startDirection);
 
-        System.out.println("Commands: ");
+//        System.out.println("Commands: ");
 //        for (int i = 0; i < charCommand.length; i++) {
 //            System.out.print(charCommand[i] + " ");
 //        }
